@@ -1,0 +1,75 @@
+[
+    {
+      "id":1,
+      "title": "Introduction to C Programming",
+      "credit": 1,
+      "img": "https://i.ibb.co/9wsSCQ1/Rectangle-2-2.png",
+      "price": 15000,
+      "description": "C programming: High-performance, procedural language for system-level development, renowned for efficiency, versatility, and widespread use in software development."
+    },
+    {
+      "id":2,
+      "title": "Introduction to Algorithms",
+      "credit": 2,
+      "img": "https://i.ibb.co/TRKmpQ9/Rectangle-2-3.png",
+      "price": 25000,
+      "description": "Introduction to Algorithms: Core study of step-by-step procedures, fundamental in computer science, crucial for efficient problem-solving and software development."
+    },
+    {
+      "id":3,
+      "title": "Introduction to C++ for DSA",
+      "credit": 10,
+      "img": "https://i.ibb.co/LCW81xF/Rectangle-2-4.png",
+      "price": 10000,
+      "description":"Introduction to C++ for DSA: Leverages C++ features to implement efficient data structures and algorithms, enhancing problem-solving skills in programming"
+    },
+    {
+      "id":4,
+      "title": "Basic Data Structures",
+      "credit": 5,
+      "img": "https://i.ibb.co/68hCP1t/Rectangle-3.png",
+      "price": 35000,
+      "description": "Basic data structures: Foundation of organizing and managing data efficiently, vital for algorithmic problem-solving,  functional programming and building robust software applications."
+    },
+    {
+      "id":5,
+      "title": "Introduction to OOP Python",
+      "credit": 5,
+      "img": "https://i.ibb.co/cvYbs06/Rectangle-2.png",
+      "price": 19000,
+      "description": "Introduction to OOP Python: Emphasizes object-oriented programming principles, enabling modular, reusable, and organized code for efficient software development  functional programming ."
+    },
+    {
+      "id":6,
+      "title": "Software Engineering",
+      "credit": 2,
+      "img": "https://i.ibb.co/nLvxbt7/Rectangle-2-5.png",
+      "price": 23000,
+      "description": "Software engineering structure: Systematic approach to develop, design, test, and maintain software systems, ensuring reliability, scalability, and efficiency in applications."
+    },
+    {
+      "id":7,
+      "title": "AWS, Cloud Computing",
+      "credit": 5,
+      "img": "https://i.ibb.co/6svNpJ3/Rectangle-3-1.png",
+      "price": 35000,
+      "description": "AWS (Amazon Web Services): Leading cloud platform offering scalable computing power, storage, and services, revolutionizing businesses with flexible and cost-effective solutions."
+    },
+    {
+      "id":8,
+      "title": "Database (MySQL)",
+      "credit": 5,
+      "img": "https://i.ibb.co/fFBfDnc/Rectangle-2-1.png",
+      "price": 19000,
+      "description": "MySQL Database: Open-source relational database,  functional programming facilitates data storage, retrieval, and management, widely employed for dynamic web applications and systems."
+    },
+    {
+      "id":9,
+      "title": "Problem-Solving Part",
+      "credit": 2,
+      "img": "https://i.ibb.co/9qngBYk/Rectangle-2-6.png",
+      "price":23000,
+      "description": "Problem solving: Analytical process involving critical thinking and creativity to devise effective solutions, enhancing decision-making and fostering continuous improvement  functional programming."
+    }
+  ]
+  
